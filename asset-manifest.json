@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Huddle/static/js/main.b2a0a862.js",
+    "static/js/787.a3f4064b.chunk.js": "/Huddle/static/js/787.a3f4064b.chunk.js",
+    "index.html": "/Huddle/index.html",
+    "main.b2a0a862.js.map": "/Huddle/static/js/main.b2a0a862.js.map",
+    "787.a3f4064b.chunk.js.map": "/Huddle/static/js/787.a3f4064b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b2a0a862.js"
+  ]
+}
